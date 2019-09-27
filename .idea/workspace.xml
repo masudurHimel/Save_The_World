@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="559207d4-4cbe-4219-9d03-2af19be08df3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Saving the world_An amazon Trail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes -- Python/colorDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes -- Python/.ipynb_checkpoints/imageDifference--Advanced - with year input-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes -- Python/.ipynb_checkpoints/imageDifference--Advanced - with year input-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes -- Python/colorDetection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes -- Python/colorDetection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes -- Python/image segmentation using color -- Trackbar included.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes -- Python/image segmentation using color -- Trackbar included.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes -- Python/imageDifference--Advanced - with year input.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes -- Python/imageDifference--Advanced - with year input.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes -- Python/imageDifference--Advanced.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes -- Python/imageDifference--Advanced.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,9 +95,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DjangoExcercise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,17 +175,17 @@
       <updated>1569336598337</updated>
       <workItem from="1569336605060" duration="482000" />
       <workItem from="1569337115682" duration="2119000" />
+      <workItem from="1569422712772" duration="199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2601000" />
+    <option name="totallyTimeSpent" value="2800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +205,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
     </layout>
   </component>
