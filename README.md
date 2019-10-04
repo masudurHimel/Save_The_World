@@ -16,7 +16,7 @@ Machine Learning files: Python, Jupyter(IDE)
 App Build-up Language: Java (back-end), XML(front-end)
 
 ![](Resources/Splash_Screen.jpg =100x20)
-
+![](.Resources/Splash_Screen.jpg =250x)
 
 
 North South University
