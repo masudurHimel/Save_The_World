@@ -15,9 +15,7 @@ Project Topic: A app that can predict and the .................
 Machine Learning files: Python, Jupyter(IDE)
 App Build-up Language: Java (back-end), XML(front-end)
 
-![](Resources/Splash_Screen.jpg =100x20)
-![](.Resources/Splash_Screen.jpg =250x)
-<img src="/Resources/Splash_Screen.jpg" width="320" align="right" hspace="20">
+<img src="/Resources/Splash_Screen.jpg" width="320">
 
 
 North South University
