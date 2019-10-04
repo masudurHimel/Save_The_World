@@ -15,7 +15,8 @@ Project Topic: A app that can predict and the .................
 Machine Learning files: Python, Jupyter(IDE)
 App Build-up Language: Java (back-end), XML(front-end)
 
-❮img src="Resources/Splash_Screen.jpg" width="100" ❯
+![](Resources/Splash_Screen.jpg)
+
 
 
 North South University
@@ -43,6 +44,6 @@ Mechine Learning Model:
 
 
 
-Added activities on App:
+added activities on App:
 SplashScreen
 Navigation Bar
