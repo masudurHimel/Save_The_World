@@ -17,6 +17,7 @@ App Build-up Language: Java (back-end), XML(front-end)
 
 ![](Resources/Splash_Screen.jpg =100x20)
 ![](.Resources/Splash_Screen.jpg =250x)
+<img src="/Resources/Splash_Screen.jpg" width="320" align="right" hspace="20">
 
 
 North South University
