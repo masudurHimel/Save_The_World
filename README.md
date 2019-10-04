@@ -15,7 +15,7 @@ Project Topic: A app that can predict and the .................
 Machine Learning files: Python, Jupyter(IDE)
 App Build-up Language: Java (back-end), XML(front-end)
 
-![](Resources/Splash_Screen.jpg)
+![](Resources/Splash_Screen.jpg =100x20)
 
 
 
