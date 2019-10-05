@@ -18,7 +18,7 @@ public class Splash_screen extends AppCompatActivity {
                     // Thread will sleep for 3 seconds
                     sleep(3*1000);
 
-                    Intent intent = new Intent(Splash_screen.this,navBar.class);
+                    Intent intent = new Intent(Splash_screen.this, SignMain.class);
                     startActivity(intent);
 
                     // After 3 seconds redirect to another intent
