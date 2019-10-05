@@ -39,13 +39,8 @@ Md. Rashad Tanjim (1620952042)<br>
 email : rashad.tanjim@northsouth.edu
 </li>
 <li>
-<<<<<<< HEAD
 Kazi Tamzid Akhter Md Hasib<br>
 email : kazihasib.sunny@gmail.com
-=======
-Kazi Hasib<br>
-email : 
->>>>>>> master
 </li>
 </ul>
 
