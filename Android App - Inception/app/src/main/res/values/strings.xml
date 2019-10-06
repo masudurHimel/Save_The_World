@@ -7,4 +7,6 @@
     <string name="nav_header_title">Saving The World - User</string>
     <string name="nav_header_subtitle">user@saveingtheworld.com</string>
     <string name="nav_header_desc">Navigation header</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="permission_text">This app needs access to your camera so that it can take pictures.</string>
 </resources>

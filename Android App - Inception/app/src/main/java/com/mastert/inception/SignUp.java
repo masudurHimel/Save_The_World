@@ -38,8 +38,10 @@ public class SignUp extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent it = new Intent(SignUp.this, navBar.class);
+                Intent it = new Intent(SignUp.this, TakePhoto.class);
                 startActivity(it);
+                //Remove activity
+                finish();
 
             }
         });
