@@ -2,7 +2,7 @@
 
 <h2>NASA Space App Challange 2019</h2>
 
-<h2>Project Idea</h2>: 
+<h2>Project Idea:</h2> 
 
 
 <p>Our Project name is “Saving The World.” We are working to save our land. We aim to establish a green environment where Human beings, animals, insects, and everything will be saved within one idea. People who work in Farming including Animals, Crops, Land, Waterlogging issues, etc. We are making an app and also working with some Data to analyze in Machine Learning. Our main agenda to provide consultancy services from Experts. User can take a pic and upload on our server and get the result. There are some services also. And also precautions for User. </p>
@@ -23,7 +23,8 @@
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-<img src="/Resources/Splash_Screen.jpg" width="320">
+<img src="/Resources/image_1.jpg" width="320">
+<img src="/Resources/image_2.jpg" width="320">
 
 Added activities on App:<br>
 <ul>
