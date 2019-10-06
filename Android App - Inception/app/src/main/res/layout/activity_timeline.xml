@@ -17,7 +17,6 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="@assets/font/roboto_bold"
             android:text="Dashboard"
             android:textColor="#FFF"
             android:textSize="24dp" />
@@ -36,7 +35,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@assets/font/roboto_regular"
         android:text="Choose Your Option!"
         android:textColor="#FFF"
         android:textSize="18dp" />
@@ -59,7 +57,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:fontFamily="@assets/font/roboto_medium"
             android:text="Saving The World!"
             android:textColor="#FFF"
             android:textSize="18dp" />
@@ -97,7 +94,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:fontFamily="@assets/font/roboto_bold"
                     android:text="Fire"
                     android:textColor="#5E5E5E"
                     android:textSize="18dp" />
@@ -129,7 +125,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:fontFamily="@assets/font/roboto_bold"
                     android:text="Nature"
                     android:textColor="#5E5E5E"
                     android:textSize="18dp" />
