@@ -25,7 +25,7 @@ public class Login extends AppCompatActivity {
         signinback.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent it = new Intent(Login.this,navBar.class);
+                Intent it = new Intent(Login.this,SignUp.class);
                 startActivity(it);
             }
         });
@@ -33,8 +33,11 @@ public class Login extends AppCompatActivity {
         login_acount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent it = new Intent(Login.this,MainActivity.class);
+                Intent it = new Intent(Login.this,Timeline.class);
                 startActivity(it);
+
+                //Remove activity
+                finish();
             }
         });
 

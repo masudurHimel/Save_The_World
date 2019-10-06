@@ -36,6 +36,8 @@ public class SignMain extends AppCompatActivity {
 
                     Intent it = new Intent(SignMain.this, Login.class);
                     startActivity(it);
+                    //Remove activity
+                    finish();
                 }
             });
 
