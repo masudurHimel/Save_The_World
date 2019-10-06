@@ -50,9 +50,13 @@ email : rashad.tanjim@northsouth.edu
 Kazi Tamzid Akhter Md Hasib<br>
 email : kazihasib.sunny@gmail.com
 </li>
+ <li>
+Afsin Orny 
+email : afsinorny@gmail.com
+</li>
 </ul>
 
 <b>##License & copyright</b><br>
-© Md. Masudur Rahman, Md. Rashad Tanjim, Kazi Tamzid Akhter Md Hasib <br>
+© Md. Masudur Rahman, Md. Rashad Tanjim, Kazi Tamzid Akhter Md Hasib, Afsin Orny<br>
 
 <b>GitHub Link:</b> <a>https://github.com/masudurHimel/Save_The_World_An-Amazon-Trail/</a>
