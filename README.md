@@ -53,7 +53,7 @@ email : kazihasib.sunny@gmail.com
 </li>
  <li>
 Afsin Orny 
-email : afsinorny@gmail.com
+email : afsinorni@gmail.com
 </li>
 </ul>
 
