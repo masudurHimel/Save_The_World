@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Save The World</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_bar">Saving The World Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Saving The World - User</string>
+    <string name="nav_header_subtitle">user@saveingtheworld.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="permission_text">This app needs access to your camera so that it can take pictures.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Crops Issue</string>
+    <string name="menu_slideshow">Land Issue</string>
+    <string name="menu_animel">Animel Issue</string>
+    <string name="menu_water">Water Issue</string>
+    <string name="menu_ratio">Service Ratio</string>
+    <string name="menu_share">SOS</string>
+    <string name="menu_send">Prediction</string>
+    <string name="title_activity_about">Results</string>
+
+</resources>
