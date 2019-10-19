@@ -33,7 +33,7 @@ Added activities on App:<br>
   Ongoing<br>
 </ul>
 
-<b>Mechine Learning Model:</b> <br><br>
+<b>Machine Learning Model:</b> <br><br>
 ![](Resources/ML_model.png)
 
 
