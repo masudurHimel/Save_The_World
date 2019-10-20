@@ -24,8 +24,8 @@ We are making an app and also working with some Data to analyze in Machine Learn
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-![](Resources/readme_2.png)
-![](Resources/readme_3.png)
+<img src="/Resources/readme_2.png" width = "full">
+<img src="/Resources/readme_3.png" width = "full" >
 
 
 Added activities on App:<br>
