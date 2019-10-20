@@ -24,7 +24,7 @@ We are making an app and also working with some Data to analyze in Machine Learn
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-<img src="/Resources/readme_2.png" >
+<img src="/Resources/readme_2.png">
 <img src="/Resources/readme_3.png" >
 
 
@@ -43,10 +43,9 @@ Added activities on App:<br>
 </ul>
 
 <b>Machine Learning Model:</b> <br><br>
-![](Resources/Before_After_1.png)
 ![](Resources/ML_model.png)
 ![](Resources/Before_After_3.png)
-
+![](Resources/Before_After_1.png)
 
 <b>Project members:</b>
 <ul>
