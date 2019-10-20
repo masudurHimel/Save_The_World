@@ -29,15 +29,22 @@ We are making an app and also working with some Data to analyze in Machine Learn
 
 Added activities on App:<br>
 <ul>
-  SplashScreen<br>
-  Navigation Bar<br>
-  Ongoing<br>
+    SplashScreen<br>
+    Navigation Bar<br>
+    Timeline<br>
+    Upload Image Option<br>
+    Comparison Tab<br>
+    Ratio & Results<br>
+    Crops, Land, Water Issue Activities<br>
+    Send Data Retrofit Library Activity <br>
+    Share & FeedBack<br>
+    
 </ul>
 
 <b>Machine Learning Model:</b> <br><br>
-![](Resources/Before_After_1.png.png)
+![](Resources/Before_After_1.png)
 ![](Resources/ML_model.png)
-![](Resources/Before_After_3.png.png)
+![](Resources/Before_After_3.png)
 
 
 <b>Project members:</b>
