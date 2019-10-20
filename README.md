@@ -5,7 +5,8 @@
 <h2>Project Idea:</h2> 
 
 
-<p>Our Project name is “Saving The World.” We are working to save our land. We aim to establish a green environment where Human beings, animals, insects, and everything will be saved within one idea. People who work in Farming including Animals, Crops, Land, Waterlogging issues, etc. We are making an app and also working with some Data to analyze in Machine Learning. Our main agenda to provide consultancy services from Experts. User can take a pic and upload on our server and get the result. There are some services also. And also precautions for User. </p>
+<p>Our Project name is “Saving The World.” We are working to save our land. We aim to establish a green environment where Human beings, animals, insects, and everything will be saved within one idea. People who work in Farming including Animals, Crops, Land, Waterlogging issues, etc. 
+We are making an app and also working with some Data to analyze in Machine Learning. Our main agenda to provide consultancy services from Experts. User can take a pic and upload on our server and get the result. There are some services also. And also precautions for User. </p>
 
 <p>We are using different platforms but the app is our main thing to navigate all the data. We are using Machine Learning Technology to analyze Data of entire activities through the apps. Where people can get a good support from this app which actually meets the SDGs goal. We are working to improve life on Land. this is one goal of SDGs. So, we think our app will get advantages to reach SDGs goal. </p>
 
@@ -23,8 +24,8 @@
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-<img src="/Resources/image_1.jpg" width="320">
-<img src="/Resources/image_2.jpg" width="320">
+<img src="/Resources/readme_2.png" width="320">
+<img src="/Resources/readme_3.png" width="320">
 
 Added activities on App:<br>
 <ul>
@@ -34,7 +35,9 @@ Added activities on App:<br>
 </ul>
 
 <b>Machine Learning Model:</b> <br><br>
+![](Resources/Before_After_1.png.png)
 ![](Resources/ML_model.png)
+![](Resources/Before_After_3.png.png)
 
 
 <b>Project members:</b>
