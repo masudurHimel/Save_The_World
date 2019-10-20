@@ -25,8 +25,8 @@ Nasa satellite image data for testing purpose<br>
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-<img src="/Resources/readme_2.png">
-<img src="/Resources/readme_3.png" >
+<img src="/Resources/readme_2.png" width = "1200px">
+<img src="/Resources/readme_3.png" width = "1200px">
 
 
 Added activities on App:<br>
