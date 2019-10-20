@@ -24,8 +24,8 @@ We are making an app and also working with some Data to analyze in Machine Learn
 
 <h2>Implmentation</h2>
 <b>App :</b><br>
-<img src="/Resources/readme_2.png" width="320">
-<img src="/Resources/readme_3.png" width="320">
+<img src="/Resources/readme_2.png" >
+<img src="/Resources/readme_3.png" >
 
 Added activities on App:<br>
 <ul>
